@@ -1,0 +1,1 @@
+export const valueSwitcher = (value: boolean) => !value;
